@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "bd8d82dfa74ba96d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2191ff25d955caa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "devops/git walkthrough.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8152c912697f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "6490ad7b57dc3b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c8077ee44a239f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2f4fb71e9eb8f64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94f6c12807799905",
+    "type": "split",
+    "children": [
+      {
+        "id": "793c7c9e947e0d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aecede4877195ace",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "devops/git walkthrough.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3638e65c3709683",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2191ff25d955caa4",
+  "lastOpenFiles": [
+    "devops/git walkthrough.md",
+    "devops/git commands.md",
+    "devops/git branches.md",
+    "devops/some linux commands.md",
+    "pages/daily notes/daily expenses.md",
+    "pages/daily notes/devops.md",
+    "pages/daily notes/planar graph.md",
+    "pages/creative writer/bff.md",
+    "pages/daily notes/Untitled.md",
+    "pages/daily notes/team 4.md"
+  ]
+}

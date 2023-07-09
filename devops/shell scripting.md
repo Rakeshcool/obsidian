@@ -1,0 +1,3 @@
+- ls -ltr : command used for properties
+- man : manual for command
+- 
