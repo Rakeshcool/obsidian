@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbbfc0a788e98a73",
+        "id": "4bd124f083a298e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a54b9e5b18fc4b6",
+            "id": "2214d6051d4440c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "devops/Creating a docker image.md",
-                "mode": "source",
-                "source": false
+                "file": "ReactJSNotesForProfessionals.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/Creating a docker image.md",
+                "file": "ReactJSNotesForProfessionals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +132,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3a54b9e5b18fc4b6",
+  "active": "2214d6051d4440c3",
   "lastOpenFiles": [
+    "ReactJSNotesForProfessionals.pdf",
+    "create a web application using vite.md",
+    "vertopal.com_ReactJSNotesForProfessionals/0961c340bebc4976a8a0db59af2337c6.md",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image99.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image98.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image97.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image95.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image96.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image94.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image93.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image88.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image92.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image91.png",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media",
+    "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6",
+    "vertopal.com_ReactJSNotesForProfessionals/0961c340bebc4976a8a0db59af2337c6.markdown",
+    "vertopal.com_ReactJSNotesForProfessionals",
+    "devops/dev log of cloud computing monitoring system.md",
+    "go dev log/ANONYMOUS STRUCT.md",
+    "go dev log/normal struct.md",
+    "devops/Creating a docker image.md",
     "devops/git commands.md",
     "devops/git branches.md",
-    "devops/dev log of cloud computing monitoring system.md",
     "web dev/types of format in database.md",
     "devops/creating a docker container.md",
     "commands of mongodb.md",
-    "devops/Creating a docker image.md",
     "go dev log/embedded struct.md",
-    "go dev log/ANONYMOUS STRUCT.md",
     "web dev/node commands.md",
     "laws/GAL'S LAW.md",
     "go dev log/interface.md",
@@ -152,7 +168,6 @@
     "go dev log/method signature in go.md",
     "go dev log/struct method.md",
     "go dev log/programming ethics.md",
-    "go dev log/normal struct.md",
     "go dev log/learning go lang.md",
     "go dev log/printing.md",
     "go dev log/if statement.md",
@@ -160,17 +175,12 @@
     "learning da vinchi resolve/keyboard shortcuts.md",
     "go dev log",
     "amv editing/copyright free music.md",
-    "amv editing/table of content.md",
-    "web dev/web dev day 4(css).md",
-    "web dev/web dev day 3.md",
     "308155868_104714562359589_2450942060664685865_n.mp4",
     "web dev",
     "learning da vinchi resolve",
     "after effects tutorial",
     "blender",
-    "laws",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "amv editing"
+    "Untitled.canvas"
   ]
 }
