@@ -11,13 +11,52 @@
             "id": "2214d6051d4440c3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ReactJSNotesForProfessionals.pdf"
+                "file": "mongodb learning/commands of mongodb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d3a512b8b99fe28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mongodb learning/frequently used mongodb commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f61f8877538b9dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mongodb learning/mongo db poweruser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d50a15e180beda20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learning bun runtime/installing bun.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactJSNotesForProfessionals.pdf",
+                "file": "learning bun runtime/installing bun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,10 +171,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2214d6051d4440c3",
+  "active": "41c8077ee44a239f",
   "lastOpenFiles": [
-    "ReactJSNotesForProfessionals.pdf",
-    "create a web application using vite.md",
+    "mongodb learning/commands of mongodb.md",
+    "learning bun runtime/installing bun.md",
+    "learning bun runtime",
+    "mongodb learning",
+    "mongodb learning/frequently used mongodb commands.md",
+    "mongodb learning/mongo db poweruser.md",
+    "webdev",
+    "web dev/ReactJSNotesForProfessionals.pdf",
+    "web dev/create a web application using vite.md",
     "vertopal.com_ReactJSNotesForProfessionals/0961c340bebc4976a8a0db59af2337c6.md",
     "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image99.png",
     "vertopal.com_ReactJSNotesForProfessionals/vertopal_0961c340bebc4976a8a0db59af2337c6/media/image98.png",
@@ -159,7 +205,6 @@
     "devops/git branches.md",
     "web dev/types of format in database.md",
     "devops/creating a docker container.md",
-    "commands of mongodb.md",
     "go dev log/embedded struct.md",
     "web dev/node commands.md",
     "laws/GAL'S LAW.md",
@@ -172,14 +217,8 @@
     "go dev log/printing.md",
     "go dev log/if statement.md",
     "go dev log/functions.md",
-    "learning da vinchi resolve/keyboard shortcuts.md",
     "go dev log",
-    "amv editing/copyright free music.md",
     "308155868_104714562359589_2450942060664685865_n.mp4",
-    "web dev",
-    "learning da vinchi resolve",
-    "after effects tutorial",
-    "blender",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
